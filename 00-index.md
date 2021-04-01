@@ -1,6 +1,8 @@
+----------
 layout: page
 title: "Math 350 - Mathematical Software"
 permalink: "index.html"
+----------
 
 ## Math 350 - Mathematical Software 
 

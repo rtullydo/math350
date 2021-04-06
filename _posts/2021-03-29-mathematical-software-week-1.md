@@ -17,4 +17,8 @@ Associated notes in the [Lecture 1 Notebook](/math350/assets/350_lecture_1.nb)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5W4FsWLEJrM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Associated noted in the [Lecture 2 Notebook](/math350/assets/350_lecture_2.nb)
+Associated notes in the [Lecture 2 Notebook](/math350/assets/350_lecture_2.nb)
+
+### Homework files
+
+[Week 1 Homework](/math350/assets/Homework1.pdf)

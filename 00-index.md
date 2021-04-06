@@ -10,10 +10,14 @@ This is the public support page for a mathematical programming course, taught th
 
 The lectures are hosted on YouTube, located here: [RTD Math](https://www.youtube.com/playlist?list=PLd-yyEHYtIhKhXrzklfwupcbfe_LCcfoV).
 
-<ul>
   {% for post in site.posts %}
-    <li>
-      <a href="/math350/{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+  <article>
+    <h2>
+      <a href="/math350/{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h2>
+    <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time>
+    {{ post.content }}
+  </article>
+{% endfor %}

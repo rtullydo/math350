@@ -13,7 +13,7 @@ The lectures are hosted on YouTube, located here: [RTD Math](https://www.youtube
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ math350/post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>

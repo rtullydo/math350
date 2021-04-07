@@ -11,6 +11,12 @@ This week covers anonymous functions and changing the type of an object to manip
 
 Associated notes in the [Lecture 3 Notebook](/math350/assets/350_lecture_3.nb).
 
+#### Lecture 4
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CwugaB1IxKY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Associated notes in the [Lecture 4 Notebook](/math350/assets/350_lecture_4.nb).
+
 #### Homework files
 
 [Week 2 Homework](/math350/assets/Homework2.pdf)

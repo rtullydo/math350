@@ -1,5 +1,5 @@
-title: Ryan Tully-Doyle
-author: 
+title: Mathematical Software
+author: Ryan Tully-Doyle
   name: 
   email: rtullydo@calpoly.edu
 description: > # this means to ignore newlines until "show_excerpts:"
@@ -14,8 +14,8 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: jekyllrb
-    github:  jekyll
+    #twitter: jekyllrb
+    github:  rtullydo
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll

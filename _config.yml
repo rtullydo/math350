@@ -1,7 +1,7 @@
 title: Mathematical Software
 author: Ryan Tully-Doyle
-  name: 
-  email: rtullydo@calpoly.edu
+name: 
+email: rtullydo@calpoly.edu
 description: > # this means to ignore newlines until "show_excerpts:"
   This page is built on a modified version of the minima theme on the jekyll platform, hosted on github pages. The modifications allow rendering latex in computer modern font.
 

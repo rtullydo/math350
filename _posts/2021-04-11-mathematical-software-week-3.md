@@ -3,7 +3,7 @@ layout: post
 title: "Week 3"
 ---
 
-This week covers sums and products (in the sense of .
+This week covers sums and products, how Mathematica handles infinity, and an introduction to the graphics functionality.
 
 #### Lecture 5
 

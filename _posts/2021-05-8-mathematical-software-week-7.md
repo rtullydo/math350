@@ -15,7 +15,7 @@ Associated notes in the [Lecture 11 Notebook](/math350/assets/350_lecture_11.nb)
 
 [Week 7 Homework](/math350/assets/Homework6.pdf)
 
-[Notebook on memoization](/math350.assets/memoization.nb)
+[Notebook on memoization](/math350/assets/memoization.nb)
 
 
 

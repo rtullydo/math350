@@ -21,5 +21,9 @@ Associated notes in the [Lecture 8 Notebook](/math350/assets/350_lecture_8.nb).
 
 [Week 4 Homework](/math350/assets/Homework4.pdf)
 
+#### Connections
+
+[Iteration of complex functions](https://www.marksmath.org/scholarship/Julia.pdf)
+
 
 

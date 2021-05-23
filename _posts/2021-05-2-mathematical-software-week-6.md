@@ -15,7 +15,7 @@ Associated notes in the [Lecture 9 Notebook](/math350/assets/350_lecture_9.nb).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eFCwNjJGsek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Associated notes in the [Lecture 10 Notebook](/math350/assets/350_lecture_6.nb).
+Associated notes in the [Lecture 10 Notebook](/math350/assets/350_lecture_10.nb).
 
 #### Homework files
 

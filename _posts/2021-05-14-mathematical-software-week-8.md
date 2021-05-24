@@ -21,7 +21,7 @@ Associated notes in the [Lecture 13 Notebook](/math350/assets/350_lecture_13.nb)
 
 [Week 8 Homework](/math350/assets/Homework7.pdf)
 
-[Notebook on memoization](/math350/assets/linear.nb)
+[Notebook on linear algebra](/math350/assets/linear.nb)
 
 
 
